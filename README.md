@@ -1,2 +1,2 @@
 # shcool-app-server
-a backend app wich complet school management project .
+a backend app wich complete school management project .
